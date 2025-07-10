@@ -1,4 +1,10 @@
 # Periodic-and-aperiodic-sequences
+ v1.0.0  annsoniya/Periodic-and-aperiodic-sequences: v1.0.0
+ DOI: 10.5281/zenodo.15852474
+v1.0.0
+
+
+
 This repo contains all codes arranged as per the figures in our paper 
 This repository contains scripts and datasets used for classifying neural response data into different stimulus sets based on Fixed-ITI and Multiple-ITI conditions. These scripts support the analysis and figure generation for our paper
 
